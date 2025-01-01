@@ -1,0 +1,6 @@
+# requirements.txt
+python-telegram-bot==20.3
+openai==0.28
+python-dotenv==1.0.0
+SQLAlchemy==2.0.17
+requests==2.31.0
